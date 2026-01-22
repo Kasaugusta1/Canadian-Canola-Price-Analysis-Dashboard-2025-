@@ -203,10 +203,7 @@ This approach supports income stability while still benefiting from high-price p
 This project demonstrates how agricultural price data can be transformed into actionable insights through structured data analysis and visualization.  
 By focusing on Canadian Canola prices, the dashboard supports informed decision-making for farmers, investors, and policymakers.
 
----
 
-## Author
-**Augusta Kasarachi Onyekwere**  
-Student ID: C0967164  
-Course: Management Information System  
+
+
 
